@@ -589,7 +589,7 @@ const TestimonialsLog: React.FC<{ soundEnabled?: boolean }> = ({ soundEnabled })
             </div>
             
             <div className="text-xs text-gray-500 font-mono pt-4">
-                > END_OF_TRANSMISSION
+                {'>'} END_OF_TRANSMISSION
             </div>
         </div>
     );
