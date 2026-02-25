@@ -644,7 +644,7 @@ const TerminalOutput: React.FC<TerminalOutputProps> = ({ type, data, soundEnable
                     {/* Creative Profile Image: Replace the src below with your actual photo URL */}
                     <div className="absolute inset-0 bg-term-main opacity-20 animate-pulse rounded-lg group-hover:opacity-10 transition-opacity"></div>
                     <img 
-                        src="https://api.dicebear.com/9.x/avataaars/svg?seed=Shirajul&backgroundColor=b6e3f4" 
+                        src="https://scontent.fdac134-1.fna.fbcdn.net/v/t39.30808-6/475814978_2426201957737793_1461147166847129481_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=1d70fc&_nc_eui2=AeFx9sri0jo3x6sTFqtX0lVzmYz5T9NZGW2ZjPlP01kZbVzr7fgaLWSVVK8G9gax0-6t7o1hNvgRDtVNqiwJHuQ8&_nc_ohc=LXsKAQhj_V8Q7kNvwFDGOHP&_nc_oc=AdnxnEvskYdDNpH83qgE1qbMmZlZYAl2iWa0xoQTseBCgV733JxnKmkLNVk0KxPv0hQ&_nc_zt=23&_nc_ht=scontent.fdac134-1.fna&_nc_gid=ZR-s01zeAJhqM17hrr4-kA&oh=00_AfvSyTmJjpor5v23Y_6clbgS3tUR4WRbh9rf1jbUnKbWFg&oe=69A3F46A" 
                         alt="Shirajul Profile" 
                         className="w-full h-full object-cover rounded-lg border-2 border-term-main/50 filter grayscale contrast-125 brightness-75 group-hover:grayscale-0 group-hover:brightness-100 transition-all duration-500"
                     />
@@ -688,8 +688,8 @@ const TerminalOutput: React.FC<TerminalOutputProps> = ({ type, data, soundEnable
                     <div className="border border-gray-800 p-4 flex items-center gap-4 bg-gray-900/30">
                         <Phone className="text-term-main" />
                         <div>
-                            <div className="text-xs text-gray-500">VOICE/SMS</div>
-                            <div className="text-white">+1 (555) 019-2834</div>
+                            <div className="text-xs text-gray-500">WhatsApp</div>
+                            <div className="text-white">+8801709295489</div>
                         </div>
                     </div>
                     
@@ -697,7 +697,7 @@ const TerminalOutput: React.FC<TerminalOutputProps> = ({ type, data, soundEnable
                         <MapPin className="text-term-main" />
                         <div>
                             <div className="text-xs text-gray-500">BASE OF OPERATIONS</div>
-                            <div className="text-white">Silicon Valley, CA</div>
+                            <div className="text-white">Tangail, BD</div>
                         </div>
                     </div>
 
